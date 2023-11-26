@@ -40,7 +40,11 @@ body {
   border-radius: 9999px;
 }
 
-.console-top-bar{
+.console-top-bar {
   width: 100%;
-  border-bottom: 3px #D0D0D0 solid
+  border-bottom: 3px #d0d0d0 solid;
+}
+
+.bg-linkedin {
+  background-color: #0a65c0;
 }
